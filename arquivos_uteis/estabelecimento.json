@@ -1,0 +1,63 @@
+{
+    "id": "",
+    "nome_fantasia": "",
+    "nome_real": "",
+    "responsavel": "",
+    "endereco": "",
+    "cidade": "",
+    "estado": "",
+    "cep": "",
+    "localizacao": "",
+    "fone": [
+        ""
+    ],
+    "e-mail": "",
+    "site": "",
+    "data_cadastro": "",
+    "filial": [
+        {
+            "id": "",
+            "nome": "",
+            "responsavel": "",
+            "telefones": [
+                ""
+            ],
+            "e-mail": "",
+            "endereco": "",
+            "cidade": "",
+            "estado": "",
+            "cep": "",
+            "localizacao": "",
+            "status": "",
+            "ativa": true,
+            "funcionarios": [
+                {
+                    "id": "",
+                    "nome": "",
+                    "e-mail": "",
+                    "ativo": true
+                }
+            ]
+        }
+    ],
+    "promocoes": [
+        {
+            "id_promocao": "",
+            "selos": [
+                {
+                    "id": ""
+                }
+            ]
+        }
+    ],
+    "status": "",
+    "ativa": true,
+    "tipo_contrato": "",
+    "free": true,
+    "data_inicio": "",
+    "data_fim": "",
+    "notificacoes": true,
+    "qtd_selos": 0,
+    "categoria_id": "",
+    "data_update": ""
+}

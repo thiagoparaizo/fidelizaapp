@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494335179615",
+    "firebase_url": "https://fidelizaapp-2020.firebaseio.com",
+    "project_id": "fidelizaapp-2020",
+    "storage_bucket": "fidelizaapp-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494335179615:android:2d76aa30eba6ffc42c94ea",
+        "android_client_info": {
+          "package_name": "com.tpz.fidelizaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494335179615-d029u5ip0rogtdeub2dcnmp9haeqa4gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpz.fidelizaapp",
+            "certificate_hash": "dcd750a1c26017b4170c98b2da4fb3daf4f0193f"
+          }
+        },
+        {
+          "client_id": "494335179615-flhnqpapij79c4fi4577b1vr3n0hta5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JQlLYLfqjuOAB2WOtE71ddG6Pk3Gp1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494335179615-flhnqpapij79c4fi4577b1vr3n0hta5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

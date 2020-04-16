@@ -1,0 +1,42 @@
+{
+    "id": "",
+    "nome": "",
+    "cpf": "",
+    "dt_nascimento": "",
+    "e-mail": "",
+    "ativo": true,
+    "idade": 0,
+    "cidade": "",
+    "estado": "",
+    "telefone": "",
+    "perfil": "",
+    "interesses": [
+        {
+            "categoria": ""
+        }
+    ],
+    "promocoes": [
+        {
+            "id_promocao": "",
+            "favorito": true,
+            "selos": [
+                {
+                    "id": ""
+                }
+            ]
+        }
+    ],
+    "configuracao": {
+        "notificacoes": true,
+        "publicidade": true,
+        "data_acesso": "",
+        "data_cadastro": "",
+        "dispositivo_id": "",
+        "dispositivo_modelo": "",
+        "quantidade_acesso": 0,
+        "versao_app": "",
+        "compartilhamento": [
+            ""
+        ]
+    }
+}

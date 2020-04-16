@@ -1,0 +1,39 @@
+dataCadastro = Timestamp.now().toDate().toString();
+
+https://grokonez.com/flutter/flutter-firestore-example-firebase-firestore-crud-operations-with-listview
+https://firebaseopensource.com/projects/firebaseextended/flutterfire/packages/cloud_firestore/readme.md/
+https://medium.com/@atul.sharma_94062/how-to-use-cloud-firestore-with-flutter-e6f9e8821b27
+https://firebase.google.com/docs/firestore/query-data/queries?hl=pt-br
+https://heartbeat.fritz.ai/using-firebases-cloud-firestore-in-flutter-79a79ec5303a
+
+https://javiercbk.github.io/json_to_dart/
+https://jsonformatter.curiousconcept.com/
+
+https://console.firebase.google.com/u/1/project/fidelizaapp-2020/authentication/users
+https://console.firebase.google.com/u/1/project/fidelizaapp-2020/database/firestore/data~2Fusuarios_t~2FUmD676GO2iNLp9jxccCLsXKDdh62
+
+
+Curs Flutter
+https://www.youtube.com/watch?v=EgrTJ9Spd1s&list=PLxNM4ef1Bpxh6vd-R5XeaP6ayVzvlPKuw&index=10
+https://www.youtube.com/watch?v=mrCTU1v2Z3w&list=PLxNM4ef1Bpxh6vd-R5XeaP6ayVzvlPKuw&index=6
+
+	- flutter add license
+		> flutter doctor --android-licenses
+		
+https://www.youtube.com/watch?v=-sT1wWNDCZs --> Flutter Wear OS
+
+ 
+GraphiQL]
+	https://www.youtube.com/watch?v=krhfoMJ48EY
+	
+Hasura
+	https://hasura.io/
+	https://www.youtube.com/watch?v=Z0E63WPLgKw
+	
+
+	
+	
+Flutter 
+	- Compontes uteis
+		Caixa de texto animada de baixo pra cima - https://flutter.dev/docs/cookbook/design/snackbars
+		
